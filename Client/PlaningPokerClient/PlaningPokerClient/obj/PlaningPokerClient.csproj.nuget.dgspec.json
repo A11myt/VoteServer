@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Workspace\\Tests\\PlanningPokerServer\\Client\\PlaningPokerClient\\PlaningPokerClient\\PlaningPokerClient.csproj": {}
+  },
+  "projects": {
+    "C:\\Workspace\\Tests\\PlanningPokerServer\\Client\\PlaningPokerClient\\PlaningPokerClient\\PlaningPokerClient.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Workspace\\Tests\\PlanningPokerServer\\Client\\PlaningPokerClient\\PlaningPokerClient\\PlaningPokerClient.csproj",
+        "projectName": "PlaningPokerClient",
+        "projectPath": "C:\\Workspace\\Tests\\PlanningPokerServer\\Client\\PlaningPokerClient\\PlaningPokerClient\\PlaningPokerClient.csproj",
+        "packagesPath": "C:\\Users\\JohnsonJason\\.nuget\\packages\\",
+        "outputPath": "C:\\Workspace\\Tests\\PlanningPokerServer\\Client\\PlaningPokerClient\\PlaningPokerClient\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\JohnsonJason\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\.esys\\nugets": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

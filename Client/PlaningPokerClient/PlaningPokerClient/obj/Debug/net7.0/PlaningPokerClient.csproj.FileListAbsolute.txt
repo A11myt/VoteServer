@@ -1,0 +1,14 @@
+C:\Workspace\Tests\PlanningPokerServer\Client\PlaningPokerClient\PlaningPokerClient\bin\Debug\net7.0\PlaningPokerClient.exe
+C:\Workspace\Tests\PlanningPokerServer\Client\PlaningPokerClient\PlaningPokerClient\bin\Debug\net7.0\PlaningPokerClient.deps.json
+C:\Workspace\Tests\PlanningPokerServer\Client\PlaningPokerClient\PlaningPokerClient\bin\Debug\net7.0\PlaningPokerClient.runtimeconfig.json
+C:\Workspace\Tests\PlanningPokerServer\Client\PlaningPokerClient\PlaningPokerClient\bin\Debug\net7.0\PlaningPokerClient.dll
+C:\Workspace\Tests\PlanningPokerServer\Client\PlaningPokerClient\PlaningPokerClient\bin\Debug\net7.0\PlaningPokerClient.pdb
+C:\Workspace\Tests\PlanningPokerServer\Client\PlaningPokerClient\PlaningPokerClient\obj\Debug\net7.0\PlaningPokerClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Tests\PlanningPokerServer\Client\PlaningPokerClient\PlaningPokerClient\obj\Debug\net7.0\PlaningPokerClient.AssemblyInfoInputs.cache
+C:\Workspace\Tests\PlanningPokerServer\Client\PlaningPokerClient\PlaningPokerClient\obj\Debug\net7.0\PlaningPokerClient.AssemblyInfo.cs
+C:\Workspace\Tests\PlanningPokerServer\Client\PlaningPokerClient\PlaningPokerClient\obj\Debug\net7.0\PlaningPokerClient.csproj.CoreCompileInputs.cache
+C:\Workspace\Tests\PlanningPokerServer\Client\PlaningPokerClient\PlaningPokerClient\obj\Debug\net7.0\PlaningPokerClient.dll
+C:\Workspace\Tests\PlanningPokerServer\Client\PlaningPokerClient\PlaningPokerClient\obj\Debug\net7.0\refint\PlaningPokerClient.dll
+C:\Workspace\Tests\PlanningPokerServer\Client\PlaningPokerClient\PlaningPokerClient\obj\Debug\net7.0\PlaningPokerClient.pdb
+C:\Workspace\Tests\PlanningPokerServer\Client\PlaningPokerClient\PlaningPokerClient\obj\Debug\net7.0\PlaningPokerClient.genruntimeconfig.cache
+C:\Workspace\Tests\PlanningPokerServer\Client\PlaningPokerClient\PlaningPokerClient\obj\Debug\net7.0\ref\PlaningPokerClient.dll
